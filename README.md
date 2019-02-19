@@ -45,10 +45,6 @@ npm start
 
 Open [localhost:3000](http://localhost:3000) file in your browser and see Cogoport app working.
 
-## Demo
-
-Preview of the application can be found at [balsu.me/cogoport](http://balsu.me/cogoport).
-
 ## Authors
 
 - **Balasubramani M** - _Initial work_ - [Balasubramani M](https://github.com/balasubramanim)
