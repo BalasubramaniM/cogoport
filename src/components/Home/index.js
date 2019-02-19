@@ -110,7 +110,7 @@ class Home extends React.Component {
 								Compare freight rates instantly across any port pair with a detailed cost breakup.
 								</p>
 							<div className='grid-container'>
-								<div className='flex-item'>
+								<div>
 									<p className='selectbox-title'>ORIGIN PORT</p>
 									<Select
 										className="input search"
@@ -120,7 +120,7 @@ class Home extends React.Component {
 										onSelect={this.onSelectOrigin}
 										onChange={this.onChangeOrigin} />
 								</div>
-								<div className='flex-item'>
+								<div>
 									<p className='selectbox-title'>DESTINATION PORT</p>
 									<Select
 										className="input search"
