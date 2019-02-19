@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.a7228454.chunk.css",
-  "main.js": "/static/js/main.e65ee052.chunk.js",
-  "main.js.map": "/static/js/main.e65ee052.chunk.js.map",
+  "main.css": "/static/css/main.6e8e6de6.chunk.css",
+  "main.js": "/static/js/main.1d176de7.chunk.js",
+  "main.js.map": "/static/js/main.1d176de7.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
   "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.d6346be7.chunk.js": "/static/js/2.d6346be7.chunk.js",
-  "static/js/2.d6346be7.chunk.js.map": "/static/js/2.d6346be7.chunk.js.map",
+  "static/js/2.9066b89f.chunk.js": "/static/js/2.9066b89f.chunk.js",
+  "static/js/2.9066b89f.chunk.js.map": "/static/js/2.9066b89f.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.b59050cc4815a2bfbcc745833d5a74dc.js": "/precache-manifest.b59050cc4815a2bfbcc745833d5a74dc.js",
+  "precache-manifest.de9b852c04ab6452cb7e4e124100dade.js": "/precache-manifest.de9b852c04ab6452cb7e4e124100dade.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.a7228454.chunk.css.map": "/static/css/main.a7228454.chunk.css.map",
+  "static/css/main.6e8e6de6.chunk.css.map": "/static/css/main.6e8e6de6.chunk.css.map",
   "static/media/nav.css": "/static/media/cogoport_logo.5e01539d.svg"
 }
