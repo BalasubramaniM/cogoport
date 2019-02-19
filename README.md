@@ -16,8 +16,7 @@ Cogoport Challenge. This application was built using [create-react-app](https://
 - [react-scripts](https://www.npmjs.com/package/react-scripts)
 - [redux](https://www.npmjs.com/package/redux)
 - [redux-logger](https://www.npmjs.com/package/redux-logger)
-- [superagent](https://www.npmjs.com/package/superagent)
-- [superagent-promise](https://www.npmjs.com/package/superagent-promise)
+- [axios](https://www.npmjs.com/package/axios)
 
 #### Dev Dependencies
 
