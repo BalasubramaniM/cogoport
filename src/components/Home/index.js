@@ -27,7 +27,7 @@ class Home extends React.Component {
 
 	componentDidMount() {
 		console.log(true)
-		// this.props.onLoad(agent.Home.getAllPorts);
+		this.props.onLoad(agent.Home.getAllPorts());
 	}
 
 	onChangeOrigin(event) {
