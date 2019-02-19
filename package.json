@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
     "history": "^4.7.2",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
@@ -11,9 +12,7 @@
     "react-router-redux": "^5.0.0-alpha.9",
     "react-scripts": "2.1.5",
     "redux": "^3.6.0",
-    "redux-logger": "^3.0.6",
-    "superagent": "^4.1.0",
-    "superagent-promise": "^1.1.0"
+    "redux-logger": "^3.0.6"
   },
   "scripts": {
     "start": "react-scripts start",

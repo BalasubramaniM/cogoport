@@ -83,3 +83,27 @@ select {
 	outline: none;
 	box-sizing: border-box;
 }
+
+.suggestion-div {
+	max-width: 292px;
+}
+
+.ports-list {
+	list-style-type: none;
+	font-size: 14px;
+	box-shadow: rgba(0, 0, 0, 0.176) 0px 6px 12px;
+	max-width: 292px;
+	max-height: 365px;
+	overflow: scroll;
+	border-radius: 4px;
+}
+
+.ports-list li {
+	padding: 12px 6px;
+	cursor: pointer;
+}
+
+.ports-list li:hover {
+	background-color: rgb(17, 117, 201);
+    color: rgb(255, 255, 255);
+}
