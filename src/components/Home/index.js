@@ -6,6 +6,7 @@ import "../../styles/variables.css";
 import "../../styles/nav.css";
 import "../../styles/styles.css";
 import "../../styles/responsive.css";
+import agent from "../../agent";
 
 const mapStateToProps = state => ({
 	...state.common
@@ -14,7 +15,7 @@ const mapStateToProps = state => ({
 const mapDispatchToProps = dispatch => ({
 	onChangeOrigin: value => dispatch({ type: SEARCH_ORIGIN, value }),
 	onChangeDestination: value => dispatch({ type: SEARCH_DESTINATION, value }),
-	onLoad: () => dispatch({ type: APP_LOAD })
+	onLoad: (payload) => dispatch({ type: APP_LOAD, payload })
 });
 
 class Home extends React.Component {
@@ -25,6 +26,8 @@ class Home extends React.Component {
 	}
 
 	componentDidMount() {
+		console.log(true)
+		// this.props.onLoad(agent.Home.getAllPorts);
 	}
 
 	onChangeOrigin(event) {
